@@ -1,0 +1,14 @@
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.pdb
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.AssemblyReference.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.CoreCompileInputs.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.pdb
+C:\Users\hp\Downloads\TUIO11_NET-master\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+C:\Users\hp\Downloads\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TuioDemo.resources
+C:\Users\hp\Downloads\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+C:\Users\hp\Downloads\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+C:\Users\hp\Downloads\TUIO11_NET-master\TUIO11_NET-master\bin\Debug\TuioDemo.pdb

@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\hci\hci\bin\Debug\netcoreapp3.1\hci.exe
+C:\Users\hp\source\repos\hci\hci\bin\Debug\netcoreapp3.1\hci.deps.json
+C:\Users\hp\source\repos\hci\hci\bin\Debug\netcoreapp3.1\hci.runtimeconfig.json
+C:\Users\hp\source\repos\hci\hci\bin\Debug\netcoreapp3.1\hci.runtimeconfig.dev.json
+C:\Users\hp\source\repos\hci\hci\bin\Debug\netcoreapp3.1\hci.dll
+C:\Users\hp\source\repos\hci\hci\bin\Debug\netcoreapp3.1\hci.pdb
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.Form1.resources
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.AssemblyInfo.cs
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.dll
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.pdb
+C:\Users\hp\source\repos\hci\hci\obj\Debug\netcoreapp3.1\hci.genruntimeconfig.cache
